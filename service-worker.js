@@ -1,5 +1,5 @@
 /* HABI PWA service worker — app shell/offline caching */
-const CACHE_NAME = 'habi-app-v1.0.0';
+const CACHE_NAME = 'habi-app-v1.0.1';
 const APP_SHELL = [
   './',
   './index.html',
