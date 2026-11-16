@@ -1,0 +1,43 @@
+{
+  "id": "./",
+  "name": "HABI | Explore San Jose del Monte",
+  "short_name": "HABI",
+  "description": "Explore. Experience. Give Back. A community and tourism app for San Jose del Monte, Bulacan.",
+  "lang": "en-PH",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "orientation": "any",
+  "background_color": "#102A43",
+  "theme_color": "#102A43",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
